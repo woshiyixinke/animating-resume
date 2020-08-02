@@ -86,7 +86,7 @@ html{
 `
           ,
           `
-/* Add css to HTML */
+/* Add css */
 .resumeEditor{
   padding: 2em;
 }
